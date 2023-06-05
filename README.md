@@ -288,6 +288,9 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 
 ## Server output:
 ![server output](https://github.com/sanjay0208/places-around-me/assets/119406959/7cbe8456-540a-4a50-9949-6a339649925b)
+## Html validator:
+![Html validator](https://github.com/sanjay0208/places-around-me/assets/119406959/e197b2e6-991a-41de-ae94-fca31e686b7c)
+
 
 ## Result:
 Code is sucessfully verified.
