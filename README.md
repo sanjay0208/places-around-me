@@ -286,6 +286,12 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 ## Valley.html:
 ![valley html](https://github.com/sanjay0208/places-around-me/assets/119406959/adb804ed-0d35-4d24-b205-87879bd68c22)
 
+## Server output:
+![server output](https://github.com/sanjay0208/places-around-me/assets/119406959/7cbe8456-540a-4a50-9949-6a339649925b)
+
+## Html validator:
+![Html validator](https://github.com/sanjay0208/places-around-me/assets/119406959/7d87729c-3bee-496f-8a92-f791f46c1197)
+
 
 ## Result:
 Code is sucessfully verified.
